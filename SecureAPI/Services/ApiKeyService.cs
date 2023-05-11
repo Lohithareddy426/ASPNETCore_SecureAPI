@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using SecureAPI.Data;
-using SecureAPI.Models;
+using SecureAPI.Models.ApiKeyModels;
 
 namespace SecureAPI.Services
 {

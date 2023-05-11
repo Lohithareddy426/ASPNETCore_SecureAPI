@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 using System.Text.Json.Serialization;
 
-namespace SecureAPI.Models
+namespace SecureAPI.Models.ApiKeyModels
 {
     [Index(nameof(Value), IsUnique = true)]
     public class UserApiKey

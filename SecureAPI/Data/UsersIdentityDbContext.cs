@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SecureAPI.Models;
+using SecureAPI.Models.ApiKeyModels;
 
 namespace SecureAPI.Data
 {
